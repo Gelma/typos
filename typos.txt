@@ -2816,9 +2816,9 @@ childern,children
 childrens,children
 chimmeny,chimney
 chineese,chinese
-chirstmas,
+chirstmas,christmas
 chisle,chisel
-chistmas,
+chistmas,christmas
 chizzel,chizzes
 chlecystectomy,chlecystectomy
 chloecystectomy,chloecystectomy
@@ -3552,15 +3552,14 @@ creche,cr�che
 creedence,credence
 cregslist,craigslist
 creigslist,craigslist
-crhistmas,
+crhistmas,christmas
 criaglist,craigslist
 criagslist,craigslist
 cricumference,circumference
 crigslist,craigslist
-cristmas,
+cristmas,christmas
 criteak,critic
 critereon,criterion
-criterias,criteria’s
 criticise,variant
 criticists,critics
 critiscism,criticism
@@ -3675,7 +3674,6 @@ dajacency,adjacency
 dajacent,adjacent
 dajustment,adjustment
 dalmation,dalmatian
-dam,dam
 damenor,demeanor
 dammage,damage
 daolescent,adolescent
@@ -3977,7 +3975,6 @@ dicsipline,discipline
 dicuss,discuss
 dicussed,discussed
 dicussion,discussion
-didnt,didn’t
 diea,idea
 dieing,dying
 diesal,diesel
@@ -4957,7 +4954,6 @@ fiesty,feisty
 fiey,fiery
 fieyr,fiery
 fighted,fought
-fightings,fighting’s
 filiament,filament
 fillement,filament
 filo,file
@@ -5512,7 +5508,7 @@ hcandelier,chandelier
 hcangeable,changeable
 hcat,chat
 hcolecystectomy,hcolecystectomy
-hcristmas,
+hcristmas,christmas
 headfone,headphone
 headfones,headphones
 headhones,headphones
@@ -5573,7 +5569,6 @@ herose,heroes
 hersuit,hirsute
 hersute,hirsute
 hertiage,heritage
-hertzs,hertz’s
 hesistant,hesitant
 heterogenous,heterogeneous
 hevy,heavy
@@ -5602,7 +5597,6 @@ higest,highest
 hight,height
 higway,highway
 hillarious,hilarious
-him,him
 himselv,himself
 hinderance,hindrance
 hinderence,hindrance
@@ -5742,7 +5736,7 @@ hrass,harass
 hravest,harvest
 hreoes,heroes
 hreshold,threshold
-hristmas,
+hristmas,christmas
 hroes,heroes
 hroticulturalist,horticulturalist
 hrticulturalist,horticulturalist
@@ -7020,7 +7014,6 @@ mayonase,mayonnaise
 mbidextrous,ambidextrous
 mcaaroni,macaroni
 mcaroni,macaroni
-mccarthyst,mccarthy’s
 mchanics,mechanics
 mdeieval,medieval
 mdieval,medieval
@@ -7572,8 +7565,6 @@ newmatic,pneumatic
 newmonia,pneumonia
 newsance,nuisance
 newsans,new sans
-newsanse,newsman’s
-newyorker,new
 nght,night
 ngiht,night
 ngle,angle
@@ -11587,7 +11578,6 @@ warrenty,warranty
 warrnaty,warranty
 warrnty,warranty
 warrriors,warriors
-wasnt,wasn’t
 wass,was
 watchs,watches
 wather,wither
