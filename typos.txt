@@ -2499,8 +2499,6 @@ caelndar,calendar
 caendar,calendar
 caese,cease
 caetgory,category
-caf,cafã©
-cafay,cafã©
 caffiene,caffeine
 cafine,canine
 cahieve,achieve
@@ -2545,7 +2543,6 @@ calender,calendar
 calenders,calendars
 calendr,calendar
 calendra,calendar
-calfes,cafã©s
 calfs,calves
 calibur,caliber
 califronia,california
@@ -2942,7 +2939,6 @@ clendar,calendar
 clera,clear
 clincial,clinical
 clinicaly,clinically
-cloisonay,cloisonnã©
 clonel,colonel
 cloonel,colonel
 closley,closely
@@ -3107,7 +3103,6 @@ commuications,communications
 commuinications,communications
 communciation,communication
 communiation,communication
-communikay,communiquã©
 communites,communities
 compability,comp ability
 compaired,compared
@@ -3548,7 +3543,6 @@ crcumference,circumference
 creaeted,created
 creasoat,creosote
 creater,creator
-creche,crã¨che
 creedence,credence
 cregslist,craigslist
 creigslist,craigslist
@@ -7577,7 +7571,7 @@ nieghbor,neighbor
 nieghborhood,neighborhood
 niether,neither
 nieve,niece
-nieveatay,naivetã©
+nieveatay,naivetÃ£Â©
 nife,knife
 nigh,nigh
 nighbor,neighbor
@@ -8763,7 +8757,7 @@ presense,presence
 preset,preset
 presetn,present
 preseverance,perseverance
-preshus,prã©cis
+preshus,prÃ£Â©cis
 presidd,presided
 presidde,presided
 preside,preside
@@ -10749,7 +10743,7 @@ tennant,tenant
 tennisplayer,tennis player
 tenous,tenuous
 tenture,tenure
-teoticuahan,teotihuacã¡n
+teoticuahan,teotihuacÃ£Â¡n
 tepmorarily,temporarily
 teradactil,pterodactyl
 teridactyl,pterodactyl
