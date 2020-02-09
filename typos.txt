@@ -4768,7 +4768,6 @@ fomed,fumed
 fomr,from
 fonetic,phonetic
 fontrier,frontier
-foo,food
 fooball,football
 foobtall,football
 foode,food
@@ -9438,7 +9437,6 @@ saffire,safire
 saftey,safety
 safty,safety
 saksaphone,saxophone
-sal,sale
 saleries,salaries
 salery,salary
 sammon,summon
