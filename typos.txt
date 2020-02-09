@@ -2493,7 +2493,6 @@ catagorize,categorize
 catagorized,categorized
 catagory,category
 catalist,catalyst
-catalogue,variant
 catapiller,caterpillar
 catastrofy,catastrophe
 catchip,cat chip
@@ -2549,7 +2548,6 @@ censur,censor
 centenial,centennial
 centennary,centenary
 cententenial,continental
-centre,variant
 centruies,centuries
 centruy,century
 ceratin,certain
@@ -3334,7 +3332,6 @@ crigslist,craigslist
 cristmas,christmas
 criteak,critic
 critereon,criterion
-criticise,variant
 criticists,critics
 critiscism,criticism
 critisising,criticizing
@@ -3480,9 +3477,6 @@ decideable,decidable
 decidely,decidedly
 decieve,deceive
 decieved,deceived
-decigramme,variant
-decilitre,variant
-decimetre,variant
 deciple,decuple
 decison,decision
 decission,decision
@@ -3724,7 +3718,6 @@ diadic,dyadic
 diagnol,diagonal
 dialate,dilate
 dialation,dilation
-dialogue,variant
 dialouge,dialog
 diamons,diamonds
 diaquiri,daiquiri
@@ -3761,7 +3754,6 @@ diffrent,different
 dificulties,difficulties
 dificulty,difficulty
 digged,dug
-digitise,variant
 diiomatically,idiomatically
 diiosyncratic,idiosyncratic
 diktate,dictate
@@ -3810,7 +3802,6 @@ disasterous,disastrous
 disatisfaction,dissatisfaction
 disatisfied,dissatisfied
 disatrous,disastrous
-disc,variant
 disciline,discipline
 discilpine,discipline
 discimenation,discrimination
@@ -3882,7 +3873,6 @@ dissobedient,disobedient
 dissoluted,dissolved
 distict,distinct
 distiction,distinction
-distil,variant
 distilation,distillation
 distingish,distinguish
 distingished,distinguished
@@ -3940,7 +3930,6 @@ doosy,doozy
 dorment,dormant
 doub,daub
 doublely,double
-doughnut,acceptable
 doulbe,double
 dout,doubt
 dowlnoad,download
@@ -3954,11 +3943,9 @@ downloda,download
 downoad,download
 downolad,download
 dramtic,dramatic
-draught,variant
 draughtman,draughtsman
 dravadian,dravidian
 drawed,drawn
-dreamt,variant
 dreasm,dreams
 driectly,directly
 drinked,drank
@@ -3990,7 +3977,6 @@ durring,during
 duting,doting
 dvantageous,advantageous
 dversary,adversary
-dwelled,variant
 dwnload,download
 dwonload,download
 dyas,days
@@ -4007,7 +3993,6 @@ earhones,earphones
 earhpones,earphones
 earial,aerial
 earlies,earliest
-earnt,variant
 earphnes,earphones
 earphnoes,earphones
 earphoens,earphones
@@ -4324,7 +4309,6 @@ eparate,separate
 epcan,pecan
 epculiar,peculiar
 eperience,experience
-epicentre,variant
 epidsodes,episodes
 epiode,episode
 epitomy,epitome
@@ -4661,8 +4645,6 @@ fatc,fact
 fatig,fating
 faught,fought
 faulter,falter
-favour,variant
-favourite,variant
 faw,few
 faymus,famous
 feas,fees
@@ -4728,7 +4710,6 @@ fla,flay
 flaged,flagged
 flamable,flammable
 flaot,float
-flavour,variant
 flawess,flawless
 fleed,fled
 flem,flam
@@ -4749,7 +4730,6 @@ flwa,flaw
 fo,for
 foat,feat
 focuse,focus
-focussed,variant
 focusses,focuses
 fod,food
 fode,fade
@@ -5016,7 +4996,6 @@ girates,gyrates
 girating,gyrating
 giration,gyration
 giser,gasser
-git,get
 gitar,guitar
 gitate,agitate
 gitf,gift
@@ -5566,7 +5545,6 @@ icrcumference,circumference
 idae,idea
 idaeidae,acaridae
 idaes,ideas
-idealise,variant
 idealogies,ideologies
 idealogy,ideology
 idealy,ideally
@@ -6173,7 +6151,6 @@ italion,italian
 itallian,italian
 itallion,stallion
 itelligence,intelligence
-itemise,variant
 itenary,ternary
 itenerant,itinerant
 iterrogate,interrogate
@@ -6798,13 +6775,11 @@ metalurgical,metallurgical
 metalurgy,metallurgy
 metamorphysis,metamorphosis
 metaphoricial,metaphorical
-meter,variant
 meterologist,meteorologist
 meterology,meteorology
 methaphor,metaphor
 methaphors,metaphors
 metorology,meteorology
-metre,variant
 meu,menu
 meun,menu
 mezmorize,memorize
@@ -7004,7 +6979,6 @@ mnoey,money
 mnu,menu
 mnuscule,minuscule
 moday,moray
-modelled,variant
 moderm,modem
 modle,model
 modnay,monday
@@ -7705,7 +7679,6 @@ palistian,pakistan
 palistinian,palestinian
 palistinians,palestinians
 pallete,palette
-pallour,variant
 paltinum,platinum
 palyed,played
 palyer,player
@@ -7715,10 +7688,6 @@ pamflet,pamphlet
 pamplet,pamphlet
 panal,panel
 panarama,panorama
-paneled,variant
-paneling,variant
-panelled,variant
-panelling,variant
 panicing,panicking
 panish,punish
 pannini,panning
@@ -7793,7 +7762,6 @@ parliment,parliament
 parllel,parallel
 parllelism,parallelism
 parllelogram,parallelogram
-parlour,variant
 parrakeets,parakeets
 parralel,parallel
 parralell,parallel
@@ -7855,7 +7823,6 @@ patsime,pastime
 pattent,patent
 pattented,patented
 pavillion,pavilion
-paviour,variant
 payed,paid
 payler,player
 paywright,playwright
@@ -8565,7 +8532,6 @@ progessed,progressed
 programable,programmable
 programe,program
 programer,programmer
-programme,variant
 progrom,pogrom
 prohabition,prohibition
 prohibative,prohibitive
@@ -9343,7 +9309,6 @@ ries,rise
 rige,rage
 rigonometric,trigonometric
 rigonometry,trigonometry
-rigour,variant
 rigourous,rigorous
 rimaniss,remains
 riminicent,reminiscent
@@ -9402,7 +9367,6 @@ rul,rule
 rular,ruler
 rulle,rule
 rumatic,romantic
-rumour,variant
 runing,running
 runnung,running
 russina,russian
@@ -9475,9 +9439,6 @@ sattistic,statistic
 saught,sought
 saveing,saving
 savere,severe
-saviour,variant
-savour,variant
-savoury,variant
 savve,save
 savy,savvy
 saxaphone,saxophone
@@ -9869,8 +9830,6 @@ speach,speech
 speaked,spoke
 spearate,separate
 specfic,specific
-specialise,variant
-specialty,variant
 specif,specific
 specifiying,specifying
 speciman,specimen
@@ -9900,7 +9859,6 @@ spll,spell
 spnaish,spanish
 spnish,spins
 spoace,space
-spoilt,variant
 sponser,sponsor
 sponsered,sponsored
 spontanious,spontaneous
@@ -10622,8 +10580,6 @@ transsend,transcend
 trarchy,starchy
 traslator,translator
 trasnlator,translator
-travelled,variant
-traveller,variant
 trcak,track
 trcaker,tracker
 trck,trick
@@ -10727,10 +10683,8 @@ tuesdy,tuesday
 tuffing,toughing
 tukey,turkey
 tukrey,turkey
-tumour,variant
 tumultous,tumultuous
 tung,tong
-tunnelling,variant
 turain,train
 turcuoise,turquoise
 tureky,turkey
@@ -10779,7 +10733,6 @@ tyranies,tyrannies
 tyrann,tyranny
 tyrany,tyranny
 tyranyn,tyranny
-tyre,variant
 tyrnany,tyranny
 tyrnny,tyranny
 tyrofoam,tyro foam
@@ -11006,16 +10959,13 @@ valient,valiant
 valiidty,validity
 valiity,validity
 vallay,valley
-valour,variant
 valuble,valuable
 valueable,valuable
-vapour,variant
 varable,variable
 varations,variations
 vareity,variety
 variaty,variety
 varience,variance
-varient,variant
 varietes,varieties
 variey,variety
 varification,verification
@@ -11064,7 +11014,6 @@ veriasion,variation
 verison,version
 verisons,versions
 vermen,vermin
-vermillion,variant
 vermuth,vermouth
 versimilitude,verisimilitude
 versital,vestal
@@ -11096,7 +11045,6 @@ victum,victim
 vigilanty,vigilantly
 vigilence,vigilance
 vigilent,vigilant
-vigour,variant
 vigourous,vigorous
 viist,visit
 viit,visit
