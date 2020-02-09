@@ -2396,7 +2396,6 @@ camoflage,camouflage
 campain,campaign
 campains,campaigns
 canberry,cranberry
-cancelled,variant
 candadate,candidate
 candelier,chandelier
 candiate,candidate
